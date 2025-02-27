@@ -1,4 +1,6 @@
 Health Recommendation System
+
+
 A personalized health and wellness recommendation system built using Streamlit and OpenAI's fine-tuned GPT model. The application provides tailored health recommendations based on individual health profiles, leveraging data from the National Health and Nutrition Examination Survey (NHANES).
 Features
 
