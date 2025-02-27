@@ -22,7 +22,7 @@ cp secrets.toml.example .streamlit/secrets.toml
 
 Edit .streamlit/secrets.toml to include your OpenAI API key and fine-tuned model ID:
 
-CopyOPENAI_API_KEY = "your-openai-api-key"
+OPENAI_API_KEY = "your-openai-api-key"
 FINE_TUNED_MODEL = "your-fine-tuned-model-id"
 
 Usage
